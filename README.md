@@ -2,7 +2,7 @@
 This is a set of product growth models using variable selection, time series analysis, regressions, principal component analysis (PCA) and long-short term memory (LSTM) model to predict product volume growth.
 
 Main steps are as follows:
-1) A data pipeline to ingest data and perform ETL
+1) A data pipeline to ingest data and perform ETL (I added this process in another repository: https://github.com/anthonyleeqy/datapipeline)
 
 2) Time series test to test the staionality (Time series test.py)
 
